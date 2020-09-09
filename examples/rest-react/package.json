@@ -32,7 +32,8 @@
     "not op_mini all"
   ],
   "resolutions": {
-    "eslint-utils": "1.4.2"
+    "eslint-utils": "1.4.2",
+    "node-request-interceptor": "0.5.1"
   },
   "devDependencies": {
     "@testing-library/dom": "^7.21.7",
